@@ -6,6 +6,7 @@ from pygame.math import Vector2
 from pygame.locals import *
 
 # test comment
+#test comment2
 
 
 BLACK = (0, 0, 0)
